@@ -5,7 +5,8 @@
 ___
 ## Overview
 This lab was about learning to work with the linked list data structure, this invlved writing methods and testing those methods. We also were tasked with calculating Big O.
-
+* The ```insertAtTail()``` method inserts a new Node ad the end of the list.
+* The ```insertAtHead()``` method inserts a head Node into the list.
 * The ```removeLastNode()``` method removes the last node of the list.
 
 
