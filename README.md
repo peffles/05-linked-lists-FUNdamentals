@@ -1,6 +1,7 @@
 # Lab 05 - Linked Lists
 **Author**: Wyatt Pefley
 **Version**: 1.0.0 
+[![Build Status](https://travis-ci.com/peffles/05-linked-lists-FUNdamentals.svg?branch=master)](https://travis-ci.com/peffles/05-linked-lists-FUNdamentals)
 ___
 ## Overview
 This lab was about learning to work with the linked list data structure, this invlved writing methods and testing those methods. We also were tasked with calculating Big O.
